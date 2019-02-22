@@ -13,6 +13,10 @@ public interface AccountDao {
     @Select("select * from  account ")
     public List<Account> findAll();
 
+    /**
+     *咋不行呢
+     * @param account
+     */
     //保存的Account方法
     @Insert("insert into account (name,money) values (#{name},#{money})")
      public void save(Account account);
