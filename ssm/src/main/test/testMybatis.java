@@ -16,6 +16,7 @@ import java.util.List;
 //老坛酸菜牛肉面
 //老坛酸菜牛肉面
 //哈哈哈哈哈哈哈哈哈哈2
+//哈哈哈哈哈哈哈哈哈哈1
 public class testMybatis {
     @Test
     public void  test1() throws IOException {
