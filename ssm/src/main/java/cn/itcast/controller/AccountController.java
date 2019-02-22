@@ -2,7 +2,7 @@ package cn.itcast.controller;
 
 import cn.itcast.domain.Account;
 import cn.itcast.service.AccountService;
-import org.apache.ibatis.annotations.Param;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

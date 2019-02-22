@@ -41,5 +41,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" scope="TEST" name="Maven: org.mybatis:mybatis:3.4.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:5.0.2.RELEASE" level="project" />
   </component>
 </module>
