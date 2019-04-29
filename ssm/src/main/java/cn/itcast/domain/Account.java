@@ -1,5 +1,5 @@
 package cn.itcast.domain;
-
+vvvvvv
 import java.io.Serializable;
 
 public class Account implements Serializable {
